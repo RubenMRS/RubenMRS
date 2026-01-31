@@ -1,50 +1,63 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rúben%20Silva&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </div>
-
-###
-
-<h1 align="left">Hello!! My name is Rúben</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ruben-silva-4abb13375/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rubeenmrs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RubenMRS/RubenMRS/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31oqsba6cwjnz2bptf2dkwmnrxte">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oqsba6cwjnz2bptf2dkwmnrxte&count=5" alt="Spotify recently played"  />
+  <a href="https://www.linkedin.com/in/ruben-silva-4abb13375/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rubeenmrs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-###
+<br/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+<div align="center">
+  <h3> 🚀 Estudante de TPSI | Full-Stack Developer </h3>
+  <p> Focado em Desenvolvimento de Software, Sistemas Informáticos e Integração de IA. </p>
 </div>
 
-###
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubenMRS&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenMRS&layout=compact&theme=dracula" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RubenMRS/RubenMRS/output/snake.svg" alt="GitHub Snake" />
+</div>
+
+---
+
+### 🎵 Listening on Spotify
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oqsba6cwjnz2bptf2dkwmnrxte&count=5" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
