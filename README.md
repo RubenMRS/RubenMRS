@@ -47,7 +47,7 @@
 ### 🐍 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RubenMRS/RubenMRS/output/snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/RubenMRS/RubenMRS/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
