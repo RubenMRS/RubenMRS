@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=RubenMRS&label=Perfil%20Views&color=00b4d8&style=flat-square" alt="views" />
   </p>
 
-  ### 🚀 Estudante de TPSI | Full-Stack Developer
+  ### 🚀 Estudante de TPSI | Junior Developer
   *Focado em construir soluções e integrar Inteligência Artificial.*
 </div>
 
